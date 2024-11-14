@@ -1,3 +1,6 @@
+# THIS IS NOT OFFICIAL GO TO https://github.com/YARC-Official/YARG FOR THE OFFICIAL REPOSITORY
+- this is a build of yarg that adds basic VR support not much else
+
 <p align="center">
   <picture>
     <img alt="YARG Gameplay" src="./Images/Banner.png" width="100%">
